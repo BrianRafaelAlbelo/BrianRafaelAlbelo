@@ -22,7 +22,7 @@
 <h2>⚙️ Tecnologías y herramientas</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,postman,mongodb,python,oracle"/>
 </p>
 
 <hr>
