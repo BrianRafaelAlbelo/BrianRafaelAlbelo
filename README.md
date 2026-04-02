@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hola, soy Brian Albelo</h1>
-
+<p align="center">
+<img src="https://img.shields.io/badge/Analista%20Funcional-Profesional-blue" />
+</p>
 <p align="center">
 💼 Analista Funcional | SQL | APIs | Procesos <br>
 🎯 Transformo necesidades de negocio en soluciones tecnológicas
