@@ -20,9 +20,10 @@
 <hr>
 
 <h2>⚙️ Tecnologías y herramientas</h2>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,postman,mongodb,python,oracle"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode,postman,linux&perline=7" />
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50"/>
 </p>
 
 <hr>
