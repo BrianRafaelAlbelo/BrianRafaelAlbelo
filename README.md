@@ -1,11 +1,11 @@
-```html
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090019,50:7000FF,100:00F5FF&height=220&section=header&text=BRIAN%20ALBELO&fontSize=52&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=FUNCTIONAL%20ANALYST%20%7C%20TECH%20ENTHUSIAST&descAlignY=60&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090019,50:7000FF,100:00F5FF&height=230&section=header&text=BRIAN%20ALBELO&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FUNCTIONAL%20ANALYST%20%7C%20TECHNOLOGY%20%7C%20AUTOMATION&descAlignY=60&descSize=16" width="100%" alt="Brian Albelo - Functional Analyst"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=%3E+INITIALIZING+SYSTEM...;%3E+FUNCTIONAL+ANALYST+ONLINE;%3E+SQL+%7C+APIs+%7C+AUTOMATION;%3E+CONNECTING+BUSINESS+AND+TECHNOLOGY" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+PROFESSIONAL+PROFILE...;%3E+FUNCTIONAL+ANALYST+ONLINE;%3E+SQL+%7C+APIs+%7C+AUTOMATION;%3E+CONNECTING+BUSINESS+AND+TECHNOLOGY;%3E+BUILDING+BETTER+SYSTEMS" alt="Typing animation"/>
 
 <br><br>
 
@@ -13,57 +13,91 @@
 <img src="https://img.shields.io/badge/ROLE-FUNCTIONAL_ANALYST-00F5FF?style=for-the-badge&labelColor=090019"/>
 <img src="https://img.shields.io/badge/LOCATION-ARGENTINA-BC13FE?style=for-the-badge&labelColor=090019"/>
 
+<br><br>
+
+<a href="https://www.linkedin.com/in/brian-rafael-albelo">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/BrianRafaelAlbelo">
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE-BC13FE?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <h2 align="center">⚡ SYSTEM://ABOUT_ME</h2>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/SYSTEM-PROFILE_LOADED-00FF9C?style=flat-square&labelColor=090019"/>
+
+</div>
+
+<br>
+
 ```yaml
 USER:
   name: Brian Albelo
-  role: Functional Analyst
-  location: Argentina
+  role: Analista Funcional
+  location: Buenos Aires, Argentina
 
-SPECIALIZATION:
-  - Business Requirements
-  - Systems Analysis
-  - API Testing
-  - SQL & Databases
-  - Process Optimization
-  - Technical Documentation
+FOCUS:
+  - Análisis funcional y técnico
+  - Integración de sistemas
+  - APIs REST
+  - Bases de datos
+  - Automatización
+  - Testing y calidad
+  - Optimización de procesos
 
 MISSION:
   "Transformar necesidades de negocio
    en soluciones tecnológicas eficientes."
 ```
 
+### 👨‍💻 Perfil profesional
+
+Soy **Analista Funcional**, especializado en conectar las necesidades del negocio con soluciones tecnológicas.
+
+Cuento con experiencia en análisis de sistemas, relevamiento de requerimientos, documentación funcional, integración de servicios y validación de aplicaciones.
+
+Me interesa comprender cómo funcionan los sistemas desde adentro, investigar incidentes, identificar oportunidades de mejora y desarrollar herramientas que optimicen los procesos.
+
+Mi perfil combina:
+
+- 🧠 Pensamiento analítico y resolución de problemas.
+- ⚙️ Conocimiento técnico de sistemas y arquitecturas.
+- 🔍 Investigación y análisis de incidentes.
+- 🧪 Testing funcional y validación de servicios.
+- 🚀 Automatización y mejora continua.
+- 📊 Análisis de datos y procesos.
+
 ---
 
-<h2 align="center">🧠 NEURAL://PROFILE</h2>
+<h2 align="center">🧠 NEURAL://CORE_CAPABILITIES</h2>
 
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   > BOOTING PROFESSIONAL PROFILE...          │
-│                                              │
-│   [OK] Business Analysis                     │
-│   [OK] Technical Documentation               │
-│   [OK] Database Analysis                     │
-│   [OK] API Validation                        │
-│   [OK] Process Optimization                  │
-│   [OK] System Integration                    │
-│                                              │
-│   STATUS: ALL SYSTEMS OPERATIONAL            │
-│                                              │
-└──────────────────────────────────────────────┘
-```
+<div align="center">
 
-Soy analista funcional con experiencia en el análisis de sistemas, integración de servicios y optimización de procesos.
+<img src="https://img.shields.io/badge/CORE_MODULES-INITIALIZED-00F5FF?style=for-the-badge&labelColor=090019"/>
 
-Me especializo en conectar las necesidades del negocio con soluciones técnicas, participando en el relevamiento, análisis, documentación, validación y seguimiento de desarrollos.
+</div>
 
-Mi enfoque combina **pensamiento analítico, resolución de problemas y conocimiento técnico**.
+<br>
+
+| MODULE | CAPABILITY | STATUS |
+|:---|:---|:---:|
+| `SYS_001` | Análisis funcional | 🟢 ACTIVE |
+| `SYS_002` | Relevamiento de requerimientos | 🟢 ACTIVE |
+| `SYS_003` | Documentación funcional y técnica | 🟢 ACTIVE |
+| `SYS_004` | Modelado de datos | 🟢 ACTIVE |
+| `SYS_005` | Testing de APIs REST | 🟢 ACTIVE |
+| `SYS_006` | Integración de sistemas | 🟢 ACTIVE |
+| `SYS_007` | Análisis de incidentes | 🟢 ACTIVE |
+| `SYS_008` | Automatización de pruebas | 🟢 ACTIVE |
+| `SYS_009` | Optimización de procesos | 🟢 ACTIVE |
+| `SYS_010` | Análisis SQL | 🟢 ACTIVE |
 
 ---
 
@@ -71,47 +105,78 @@ Mi enfoque combina **pensamiento analítico, resolución de problemas y conocimi
 
 <div align="center">
 
-### DATABASE SYSTEMS
+### 💾 DATABASE SYSTEMS
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Database technologies"/>
 
 <br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55" alt="Oracle"/>
 
-### DEVELOPMENT & TOOLS
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,postman,linux&theme=dark" />
+### 💻 DEVELOPMENT
 
-### AUTOMATION & TESTING
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" alt="Programming technologies"/>
 
-<img src="https://skillicons.dev/icons?i=selenium,py,fastapi&theme=dark" />
+<br><br>
 
-<br>
+### 🛠️ TOOLS & ENVIRONMENT
 
-<img src="https://img.shields.io/badge/REST_APIs-00F5FF?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-BC13FE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BPMN-00FF9C?style=for-the-badge&labelColor=090019"/>
-<img src="https://img.shields.io/badge/PLAYWRIGHT-FF00FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KIBANA-00F5FF?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker&theme=dark" alt="Development tools"/>
+
+<br><br>
+
+### 🧪 AUTOMATION & TESTING
+
+<img src="https://skillicons.dev/icons?i=selenium,py,fastapi&theme=dark" alt="Automation tools"/>
+
+<br><br>
+
+### 🔌 SYSTEM INTEGRATION
+
+<img src="https://img.shields.io/badge/REST_API-00F5FF?style=for-the-badge&labelColor=090019"/>
+<img src="https://img.shields.io/badge/SOAP-BC13FE?style=for-the-badge&labelColor=090019"/>
+<img src="https://img.shields.io/badge/JSON-00FF9C?style=for-the-badge&labelColor=090019"/>
+<img src="https://img.shields.io/badge/XML-FF00FF?style=for-the-badge&labelColor=090019"/>
+
+<br><br>
+
+### 📡 OBSERVABILITY & DATA
+
+<img src="https://img.shields.io/badge/KIBANA-00F5FF?style=for-the-badge&labelColor=090019"/>
+<img src="https://img.shields.io/badge/DYNATRACE-BC13FE?style=for-the-badge&labelColor=090019"/>
+<img src="https://img.shields.io/badge/POWER_BI-00FF9C?style=for-the-badge&labelColor=090019"/>
+<img src="https://img.shields.io/badge/SQL-FF00FF?style=for-the-badge&labelColor=090019"/>
 
 </div>
 
 ---
 
-<h2 align="center">🧩 CORE://CAPABILITIES</h2>
+<h2 align="center">🖥️ TERMINAL://PROFESSIONAL_PROFILE</h2>
 
-| MODULE | CAPABILITY | STATUS |
-|:---|:---|:---:|
-| 01 | Relevamiento de requerimientos | 🟢 ACTIVE |
-| 02 | Análisis funcional | 🟢 ACTIVE |
-| 03 | Modelado de datos | 🟢 ACTIVE |
-| 04 | Testing de APIs | 🟢 ACTIVE |
-| 05 | Documentación técnica y funcional | 🟢 ACTIVE |
-| 06 | Análisis de procesos BPMN | 🟢 ACTIVE |
-| 07 | Integración de sistemas | 🟢 ACTIVE |
-| 08 | Automatización de pruebas | 🟢 ACTIVE |
-| 09 | Investigación de incidentes | 🟢 ACTIVE |
+```text
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║          BRIAN ALBELO // SYSTEM TERMINAL         ║
+║                                                  ║
+╠══════════════════════════════════════════════════╣
+║                                                  ║
+║  > INITIALIZING PROFILE...                       ║
+║                                                  ║
+║  [OK] Functional Analysis                        ║
+║  [OK] SQL & Database Analysis                    ║
+║  [OK] API Testing                                ║
+║  [OK] Technical Documentation                    ║
+║  [OK] Systems Integration                        ║
+║  [OK] Process Optimization                       ║
+║  [OK] Incident Investigation                     ║
+║  [OK] Test Automation                            ║
+║                                                  ║
+║  > ALL SYSTEMS OPERATIONAL                       ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
 
 ---
 
@@ -119,53 +184,82 @@ Mi enfoque combina **pensamiento analítico, resolución de problemas y conocimi
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/PROJECT_DATABASE-ACCESS_GRANTED-00FF9C?style=for-the-badge&labelColor=090019"/>
+
+</div>
+
+<br>
+
 ### 🟣 PROJECT_001 // HELP DESK SYSTEM
 
 **Sistema de gestión de tickets e incidencias**
 
-```text
-> Gestión de solicitudes
-> Seguimiento de incidencias
-> Análisis de procesos
-> Organización de información
-> Optimización operativa
-```
+Proyecto orientado a organizar solicitudes, administrar incidencias y optimizar el seguimiento de procesos.
 
-<img src="https://img.shields.io/badge/TYPE-SYSTEM_ANALYSIS-BC13FE?style=flat-square&labelColor=090019"/>
+**Áreas de trabajo:**
 
-<br>
+- Gestión de tickets.
+- Análisis de requerimientos.
+- Documentación funcional.
+- Seguimiento de incidencias.
+- Optimización de procesos.
+
+<img src="https://img.shields.io/badge/CATEGORY-SYSTEM_ANALYSIS-BC13FE?style=flat-square&labelColor=090019"/>
+
+---
 
 ### 🔵 PROJECT_002 // API TESTING LAB
 
-**Validación de servicios e integraciones**
+**Laboratorio de validación de servicios REST**
 
-```text
-> HTTP Requests
-> Endpoint Validation
-> Status Code Analysis
-> Error Handling
-> JSON Response Validation
-```
+Proyecto enfocado en la validación técnica y funcional de servicios e integraciones.
 
-<img src="https://img.shields.io/badge/TYPE-API_TESTING-00F5FF?style=flat-square&labelColor=090019"/>
+**Áreas de trabajo:**
 
-<br>
+- Pruebas de endpoints.
+- Validación de respuestas JSON.
+- Análisis de códigos HTTP.
+- Manejo de errores.
+- Verificación de contratos de integración.
+
+<img src="https://img.shields.io/badge/CATEGORY-API_TESTING-00F5FF?style=flat-square&labelColor=090019"/>
+
+---
 
 ### 🟢 PROJECT_003 // AUTOMATION LAB
 
-**Automatización de validaciones técnicas**
+**Automatización de pruebas y validaciones**
 
-```text
-> Python
-> Playwright
-> Automated Testing
-> Data Validation
-> Test Execution
-```
+Desarrollo de herramientas orientadas a reducir tareas manuales y mejorar los procesos de validación.
 
-<img src="https://img.shields.io/badge/TYPE-AUTOMATION-00FF9C?style=flat-square&labelColor=090019"/>
+**Tecnologías:**
 
-</div>
+- Python.
+- Playwright.
+- Selenium.
+- FastAPI.
+- Automatización de pruebas.
+
+<img src="https://img.shields.io/badge/CATEGORY-AUTOMATION-00FF9C?style=flat-square&labelColor=090019"/>
+
+---
+
+### 🟡 PROJECT_004 // INCIDENT ANALYSIS
+
+**Análisis técnico de incidentes**
+
+Investigación de problemas mediante el análisis de información técnica y comportamiento de servicios.
+
+**Áreas de trabajo:**
+
+- Análisis de logs.
+- Consultas SQL.
+- Identificación de errores.
+- Análisis de causa raíz.
+- Documentación de hallazgos.
+- Propuestas de mejora.
+
+<img src="https://img.shields.io/badge/CATEGORY-INCIDENT_MANAGEMENT-FFD700?style=flat-square&labelColor=090019"/>
 
 ---
 
@@ -173,11 +267,11 @@ Mi enfoque combina **pensamiento analítico, resolución de problemas y conocimi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BrianAlbelo&show_icons=true&theme=radical&hide_border=true&bg_color=090019&title_color=00F5FF&icon_color=BC13FE&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api?username=BrianRafaelAlbelo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BC13FE&text_color=FFFFFF" alt="GitHub Stats"/>
 
-<br>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianAlbelo&layout=compact&theme=radical&hide_border=true&bg_color=090019&title_color=00F5FF&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianRafaelAlbelo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages"/>
 
 </div>
 
@@ -187,19 +281,23 @@ Mi enfoque combina **pensamiento analítico, resolución de problemas y conocimi
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=%3E+ESTABLISHING+CONNECTION...;%3E+PROFESSIONAL+NETWORK+AVAILABLE;%3E+READY+TO+CONNECT" alt="Connection status"/>
+
+<br><br>
+
 <a href="https://www.linkedin.com/in/brian-rafael-albelo">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090019"/>
+<img src="https://img.shields.io/badge/LINKEDIN-PROFESSIONAL_NETWORK-00F5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090019"/>
 </a>
 
 <br><br>
 
-```text
-> ESTABLISHING CONNECTION...
+<a href="https://github.com/BrianRafaelAlbelo">
+<img src="https://img.shields.io/badge/GITHUB-SOURCE_CODE-BC13FE?style=for-the-badge&logo=github&logoColor=white&labelColor=090019"/>
+</a>
 
-> PROFESSIONAL NETWORK AVAILABLE
+<br><br>
 
-> STATUS: READY TO CONNECT
-```
+<img src="https://img.shields.io/badge/CONNECTION-ESTABLISHED-00FF9C?style=flat-square&labelColor=090019"/>
 
 </div>
 
@@ -209,36 +307,14 @@ Mi enfoque combina **pensamiento analítico, resolución de problemas y conocimi
 
 ### ⚡ SYSTEM PHILOSOPHY
 
-*"La tecnología tiene valor cuando resuelve problemas reales."*
+**"La tecnología tiene valor cuando resuelve problemas reales."**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090019,50:7000FF,100:00F5FF&height=120&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=BrianRafaelAlbelo&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090019,50:7000FF,100:00F5FF&height=130&section=footer" width="100%" alt="Cyberpunk footer"/>
 
 </div>
-```
-
-### 🔥 ¿Qué tiene de especial este diseño?
-
-| Elemento | Estética |
-|---|---|
-| Header | Banner futurista violeta/cian |
-| Nombre | Tipografía tecnológica |
-| Presentación | Texto animado tipo terminal |
-| Perfil | Configuración estilo YAML |
-| Habilidades | Panel de diagnóstico de sistema |
-| Tecnologías | Íconos con temática oscura |
-| Proyectos | Módulos de una base de datos |
-| Estadísticas | Paneles de GitHub |
-| Contacto | Interfaz de conexión |
-| Footer | Efecto neón futurista |
-
-### 💡 Una mejora que te recomendaría
-
-Por tu perfil técnico, podríamos llevar este README a otro nivel con una estética inspirada en **Cyberpunk 2077 + terminal de Linux + interfaz de Jarvis**.
-
-Por ejemplo, en lugar de presentar solamente tus proyectos, podríamos incorporar una sección denominada **INCIDENT RESPONSE SYSTEM**, donde muestres tu capacidad de investigar incidentes mediante logs, SQL, APIs y análisis de causa raíz.
-
-Eso permitiría que tu GitHub no sea solamente visualmente atractivo, sino que también comunique algo importante para un reclutador: **tu capacidad real para investigar y resolver problemas técnicos**.
-
-**Importante:** reemplazá `BrianAlbelo` en las URLs de estadísticas por tu usuario real de GitHub para que funcionen correctamente. Los banners y animaciones dependen de servicios externos y pueden no mostrarse si están temporalmente fuera de servicio.
